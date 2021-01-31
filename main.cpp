@@ -1,10 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    std::cout << "super computer is working" << std::endl;
     return 0;
 }
-Successfully created project 'test_1' on GitHub, but initial commit failed: Author identity unknown *** Please tell me who you are.
-Run git config --global user.email "you@example.com" git config --global user.name "Your Name" to
-set your account
-'s default identity. Omit --global to set the identity only in this repository. unable to auto-detect email address (got 'Rafał Kowalczyk@DESKTOP-4F097F8.(none)')
